@@ -1,0 +1,208 @@
+// 头
+@import "public.scss";
+header{
+    width: 100%;
+    overflow: hidden;
+    .header-box{
+        width:80%;
+        height: 100px;
+        margin: 0 auto;
+        .header-left{
+            float: left;
+            img{
+                float: left;
+            }
+            img:nth-child(2){
+                height: 44px;
+                margin:30px 20px;
+            }
+            p{
+                float: left;
+                font-size: 24px;
+                line-height: 100px;
+                color: #999;
+            }
+        }
+        .header-right{
+            float: right;
+            img{
+                float: left;
+                margin:42px 20px;
+            }
+            p{
+                float: left;
+                line-height: 100px;
+                font-size: 13px;
+            }
+        }
+    }
+}
+
+// 登录
+.zhu{
+    width: 100%;
+    background-color: #262626;
+    .zhu1{
+        width: 80%;
+        margin: 0 auto;
+        height: 535px;
+        background:url(../../dist/img/beijing.min.png) no-repeat;
+    }
+    .zhu-right{
+        width: 400px;
+        height: 470px;
+        margin-top: 30px;
+        float: right;
+        background: white;
+        .head{
+            padding: 32px 0 10px;
+            font-size: 20px;
+            height: 20px;
+            line-height: 20px;
+            text-align: center;
+            color: #000;
+        }
+        input{
+            height: 50px;
+            width: 340px;
+            margin-left:30px;
+            margin-top:14px;
+            border:1px solid #ccc;
+        }
+        #sub{
+            background: #333;
+            color: white;
+            font-size: 18px;
+            transition: all 1s;
+            &:hover{
+                background: rgb(173, 0, 0);
+            }
+        }
+
+        .denglu{
+            width: 100%;
+            .input-deng{
+                width: 15px;
+                height: 15px;
+                float: left;
+                margin-top: 20px;
+            }
+            p{
+                float: left;
+                color: rgb(134, 134, 134);
+                line-height: 52px;
+                margin-left: 10px;
+                font-size: 13px;
+            }
+            a{
+                float: right;
+                color: rgb(134, 134, 134);
+                line-height: 52px;
+                margin-right: 32px;
+                font-size: 13px;
+            }
+        }
+        .qita{
+            width: 212px;
+            height: 74px;
+            margin: 0 auto;
+            margin-top: 20px;
+            img{
+                margin-left: 30px;
+            }
+        }
+
+    }
+}
+
+
+//底部
+.bottom-wrap{
+    width:100%;
+    height:600px;
+    background: url(../img/footer_message_bg.min.jpg) no-repeat;
+    margin-top: 50px;
+    border-top:1px solid #ccc;
+    .bottom-con{
+        width:1210px;
+        height:600px;
+        margin: auto;
+        .VIP{
+            width:100%;
+            height:116px;
+            border-bottom:1px solid #ccc;
+            line-height: 116px;
+            li{
+                float: left;
+                width:242px;
+                height:64px;
+               .min-logo{
+                  display: block;
+                  width:242px;
+                  height:64px;
+                  float:left;
+                  margin-left: 5px;
+                  span{
+                      margin-left: 20px;
+                      color:#000;
+                      font-weight: bold;
+                  }
+              }
+        }
+    }
+    .APP{
+        width:100%;
+        height:283px;
+        margin-top: 15px;
+        .help{
+            width:185px;
+            height:160px;
+            float: left;
+            .nerver{
+               font-size:12px ;
+               color:#000;
+               font-weight: bold;
+               margin-bottom: 20px;
+            }
+            a{
+               line-height: 30px; 
+               font-size: 13px;
+               color:#333;
+               &:hover{
+                text-decoration:underline;
+               }
+            } 
+        }
+        .help-2{
+            width:140px;
+        }
+    }
+    .copy{
+        .copy-top{
+            height:60px;
+            text-align: center;
+            line-height: 60px;
+           a{
+               margin-right: 10px;
+               font-size:13px ;
+               color:white;
+               &:hover{
+                text-decoration:underline;
+               }
+           }
+        }
+      .top-2{
+          height:16px;
+          line-height: 16px;
+      }
+      .copy-icon{
+          text-align: center;
+      } 
+    }
+  }
+}
+
+
+
+
+ 

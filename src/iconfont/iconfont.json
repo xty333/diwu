@@ -1,0 +1,93 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "892288",
+      "name": "微信",
+      "font_class": "iconfont16x16moban",
+      "unicode": "e649",
+      "unicode_decimal": 58953
+    },
+    {
+      "icon_id": "4781559",
+      "name": "三角下标（正方形）",
+      "font_class": "arrUp-fill",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "6610882",
+      "name": "二维码",
+      "font_class": "erweima",
+      "unicode": "e503",
+      "unicode_decimal": 58627
+    },
+    {
+      "icon_id": "8260399",
+      "name": "三角下标（正方形）",
+      "font_class": "shang",
+      "unicode": "e51e",
+      "unicode_decimal": 58654
+    },
+    {
+      "icon_id": "10627964",
+      "name": "铅笔",
+      "font_class": "qianbi",
+      "unicode": "e5ba",
+      "unicode_decimal": 58810
+    },
+    {
+      "icon_id": "11177058",
+      "name": "包 购物",
+      "font_class": "baogouwu",
+      "unicode": "e6a2",
+      "unicode_decimal": 59042
+    },
+    {
+      "icon_id": "13425615",
+      "name": "电  话",
+      "font_class": "dianhua",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "14027877",
+      "name": "电  话",
+      "font_class": "dianhua1",
+      "unicode": "e668",
+      "unicode_decimal": 58984
+    },
+    {
+      "icon_id": "15154603",
+      "name": "二维码",
+      "font_class": "erweima1",
+      "unicode": "e501",
+      "unicode_decimal": 58625
+    },
+    {
+      "icon_id": "15557860",
+      "name": "包",
+      "font_class": "changyongtubiao1-42",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "15903309",
+      "name": "尖角号右",
+      "font_class": "jianjiaohaoyou",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "15970531",
+      "name": "尖角号",
+      "font_class": "arrow_down",
+      "unicode": "e510",
+      "unicode_decimal": 58640
+    }
+  ]
+}
